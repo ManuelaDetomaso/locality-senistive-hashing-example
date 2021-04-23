@@ -1,0 +1,20 @@
+# IDE
+.idea
+.vscode
+
+# jupyter
+.ipynb_checkpoints
+
+# executions
+__pycache__
+*.py[cod]
+*$py.class
+
+.pytest_cache
+# Secrets
+.env
+
+# folders
+build/
+data/
+scripts/original/
